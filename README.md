@@ -3,10 +3,10 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Setup & Network Traffic Analysis with Azure VMs](https://github.com/dorianriv/ad-and-azuresetup)
-  - [Active Directory Deployment and Configuration](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Active Directory: User Generation](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Active Directory: Practical Scenario Simulation](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Azure Infrastructure Setup for Active Directory – Phase 1](https://github.com/dorianriv/ad-and-azuresetup)
+  - [Active Directory Deployment and Configuration – Phase 2](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [User and Group Management in Active Directory – Phase 3](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Simulating Real-World Active Directory Scenarios – Phase 4](https://github.com/joshmadakorcc/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
