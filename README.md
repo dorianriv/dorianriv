@@ -14,6 +14,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/dorianrivas-/" target="_blank" rel="noopener noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="28">
+<a href="https://www.linkedin.com/in/dorianrivas-/" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="height:28px; vertical-align:middle;">
 </a>
