@@ -14,6 +14,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dorianrivas-/)
-
-
+<a href="https://www.linkedin.com/in/dorianrivas-/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="28">
+</a>
