@@ -1,5 +1,9 @@
 <h1>Hi, I'm Dorian, an <a href="https://www.linkedin.com/in/dorianrivas-/">IT Professional</a>☺</h1>
 
+<h2>⭐ Featured Projects:</h2>
+
+- [Simulating Real-World Active Directory Scenarios](https://github.com/dorianriv/ad-scenario-sim)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
