@@ -6,7 +6,7 @@
   - [Azure Infrastructure Setup for Active Directory – Phase 1](https://github.com/dorianriv/ad-and-azuresetup)
   - [Active Directory Deployment and Configuration – Phase 2](https://github.com/dorianriv/ad-depo-config)
   - [User and Group Management in Active Directory – Phase 3](https://github.com/dorianriv/ad-user-gen)
-  - [Simulating Real-World Active Directory Scenarios – Phase 4](https://github.com/dorianriv/ad-scenario-simulation)
+  - [Simulating Real-World Active Directory Scenarios – Phase 4](https://github.com/dorianriv/ad-scenario-sim)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dorianriv/osticket-prereqs)
