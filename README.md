@@ -3,6 +3,8 @@
 <h2>⭐ Featured Projects:</h2>
 
 - [Simulating Real-World Active Directory Scenarios](https://github.com/dorianriv/ad-scenario-sim)
+- [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/dorianriv/osticket-ticket-resolution)
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
