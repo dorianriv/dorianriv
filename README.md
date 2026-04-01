@@ -17,6 +17,10 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dorianriv/osticket-prereqs)
   - [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/dorianriv/osticket-ticket-resolution)
+ 
+<h2>🛡️ Cybersecurity Projects:</h2>
+
+- <b>Website Spoofing & Credential Harvesting Lab (SET Toolkit)</b>
 
 <h2>🤳Connect with me:</h2>
 
