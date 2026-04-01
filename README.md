@@ -20,7 +20,7 @@
  
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-- <b>Website Spoofing & Credential Harvesting Lab (SET Toolkit)</b>
+- Website Spoofing & Credential Harvesting Lab (SET Toolkit)
 
 <h2>🤳Connect with me:</h2>
 
