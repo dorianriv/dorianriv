@@ -4,7 +4,7 @@
 
 - [Simulating Real-World Active Directory Scenarios](https://github.com/dorianriv/ad-scenario-sim)
 - [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting](https://github.com/dorianriv/osticket-ticket-resolution)
-
+- [Website Spoofing & Credential Harvesting Lab (SET Toolkit)](https://github.com/dorianriv/spoof-lab)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -20,7 +20,7 @@
  
 <h2>🛡️ Cybersecurity Projects:</h2>
 
-- Website Spoofing & Credential Harvesting Lab (SET Toolkit)
+- [Website Spoofing & Credential Harvesting Lab (SET Toolkit)](https://github.com/dorianriv/spoof-lab)
 
 <h2>🤳Connect with me:</h2>
 
